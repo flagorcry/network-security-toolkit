@@ -1,5 +1,5 @@
 import socket
-from ipaddress import ip_address
+
 
 
 def resolve_hostname(hostname: str) -> str | None:
